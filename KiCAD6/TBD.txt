@@ -1,0 +1,3 @@
+1. Try to import the PCB from Altium to KiCAD6
+2. Try to import the schematics as well
+3. Bind the PCB and the schematics as a complete KiCAD6 project
