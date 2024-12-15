@@ -1,4 +1,4 @@
 # OpenDIMM
 
-​Open hardware and software DIMM DDR ecosystem for research and evaluation.
-Note: DDR4 DIMM is yet untested!
+​Open hardware and software DIMM DDR ecosystem for research and evaluation (DDR4 DIMM is yet untested).
+Project should be continued towards DDR5.
